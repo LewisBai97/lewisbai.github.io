@@ -558,6 +558,18 @@ body {
   background-size: 100% 6px;
   background-repeat: repeat-x;
 }
+.content table {
+  width: 100%;
+}
+.content table thead {
+  width: 100%;
+}
+.content table tbody {
+  width: 100%;
+}
+.content table tbody tr {
+  width: 100%;
+}
 @media (min-width: 540px) {
   .image-wrap {
     flex-direction: row;
